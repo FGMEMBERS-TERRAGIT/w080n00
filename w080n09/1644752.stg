@@ -1,0 +1,7 @@
+OBJECT_SHARED Models/Maritime/Civilian/LargeFerry.xml -79.92194353 9.36576433 -3.14 116
+OBJECT_SHARED Models/Maritime/Civilian/SimpleFreighter.ac -79.92971067 9.36957465 -3.23 0
+OBJECT_SHARED Models/Maritime/Civilian/Tanker_mooring.xml -79.92729503 9.34416898 -0.06 0
+OBJECT_SHARED Models/Maritime/Civilian/Tanker_mooring.xml -79.91882495 9.36890137 -4.26 0
+OBJECT_SHARED Models/Maritime/Civilian/Tanker_sailing.xml -79.92408345 9.36291458 -3.14 0
+OBJECT_SHARED Models/Maritime/Civilian/SuperTanker.xml -79.93161817 9.3547074 -1.25 351.3
+OBJECT_SHARED Models/Maritime/Civilian/SuperTanker.xml -79.90780942 9.25199922 13.69 48
