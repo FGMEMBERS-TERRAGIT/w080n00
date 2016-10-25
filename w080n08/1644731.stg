@@ -1,0 +1,5 @@
+OBJECT_SHARED Models/Maritime/Civilian/CruiseShip.ac -79.57061361 8.96528408 -9 32
+OBJECT_SHARED Models/Maritime/Civilian/Catamaran.xml -79.54150307 8.93242608 -0.01 0
+OBJECT_SHARED Models/Maritime/Civilian/Ponton-I.ac -79.54818414 8.9296157 0 344
+OBJECT_SHARED Models/Maritime/Civilian/Ponton-T.ac -79.54804363 8.93001643 -0.01 340
+OBJECT_SHARED Models/Maritime/Civilian/SuperTanker.xml -79.52531007 8.89417329 -0.64 0
