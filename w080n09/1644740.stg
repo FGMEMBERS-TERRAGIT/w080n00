@@ -4,3 +4,13 @@ OBJECT_SHARED Models/Communications/vordme_1.xml -79.400058 9.051561 7.88 180
 OBJECT_SHARED Models/Communications/vordme_1.xml -79.390117 9.049786 4.9 180
 OBJECT_SHARED Models/Airport/marker.ac -79.396609 9.041393 12.27 180
 OBJECT_SHARED Models/Airport/localizer.xml -79.378094 9.073147 11.39 122.69
+OBJECT_SHARED Models/Aircraft/320austrian.xml -79.383275 9.070563 53.17 300
+OBJECT_SHARED Models/Airport/Vehicle/94-f600-fuel-yellow-hi.ac -79.390656 9.057749 5.39 30
+OBJECT_SHARED Models/Airport/FuelTank_7x3m.ac -79.380727 9.073408 53.48 12
+OBJECT_SHARED Models/Aircraft/A320-TAP.ac -79.383447 9.070235 53.57 300
+OBJECT_SHARED Models/Aircraft/Airbus_A320_200-jetblue.ac -79.389744 9.059566 47.42 300
+OBJECT_SHARED Models/Aircraft/Boeing_737-800-opdelta.ac -79.390318 9.058591 46.17 300
+OBJECT_SHARED Models/Aircraft/Airbus_A320_200-spirit.ac -79.382905 9.071241 56.42 300
+OBJECT_SHARED Models/Aircraft/Airbus_A320_200-opunited.ac -79.390109 9.058903 46.17 300
+OBJECT_SHARED Models/Aircraft/Embraer_175-uniexp.ac -79.383098 9.07087 52.73 300
+OBJECT_SHARED Models/Aircraft/Airbus_A319-meridiana.ac -79.389948 9.059248 46.23 300
