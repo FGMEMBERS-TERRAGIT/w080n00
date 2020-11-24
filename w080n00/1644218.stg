@@ -1,2 +1,10 @@
 OBJECT_SHARED Models/Airport/ndb.ac -79.629444 0.970833 0 180
 OBJECT_SHARED Models/Communications/vordme_1.xml -79.626706 0.989083 4.87 180
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -79.62504 0.97599 0.00 87.21
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -79.62503 0.97635 8.26 87.27
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -79.62501 0.97671 8.13 87.22
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml -79.62508 0.97810 8.28 0
+# END dsf2stg
